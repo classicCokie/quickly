@@ -1,0 +1,25 @@
+{
+  "name": "quickly",
+  "version": "1.0.0",
+  "description": "Cli tool for quick component creation in react native",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classicCokie/quickly.git"
+  },
+  "author": "Firemind ",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.1.0"
+  },
+  "bin": {
+    "quickly": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/classicCokie/quickly/issues"
+  },
+  "homepage": "https://github.com/classicCokie/quickly#readme"
+}
